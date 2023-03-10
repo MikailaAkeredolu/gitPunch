@@ -4,7 +4,6 @@
 
 - Create a Folder named outter_folder
 - Inside the outer folder, create another folder named inner_folder
-- While still in the command line, Navigate back to the outter_folder.
 - Inside the outter_folder, create a file named fullname.txt
 - Edit the file using V.I by adding your First and LastName inside the file
 - Save the file and exit V.I
