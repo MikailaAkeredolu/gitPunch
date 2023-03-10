@@ -8,8 +8,9 @@
 - Edit the file using V.I by adding your First and LastName inside the file
 - Save the file and exit V.I
 - Create another file but this time inside the inner_folder and name it blank_file.txt
-- Copy all the contents inside the fullname.txt into the blank_file.txt
+- From the commandline, copy all the contents inside the fullname.txt into the blank_file.txt
 - Retrieve and print out all the contents that are now inside the blank_file.txt to the terminal
+- Both txt files should now have your first and last name inside of them
 - Inside the outter_folder, create one more file named ignoreme.txt
 
 > To ensure we do not lose all of our work:
