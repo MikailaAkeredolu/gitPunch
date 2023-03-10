@@ -15,7 +15,7 @@
 
 > To ensure we do not lose all of our work:
  - Lets go ahead and make it a git repository
- - Make sure that you do push the ignoreme.txt file to github.com
+ - Make sure that you do NOT push the ignoreme.txt file to github.com
  - When ready, push your local repo to github.com
 
 > Now one more thing: 
